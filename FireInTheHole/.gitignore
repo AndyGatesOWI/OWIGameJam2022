@@ -1,3 +1,4 @@
+﻿@@ -0,0 +1,74 @@
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -72,3 +73,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate
